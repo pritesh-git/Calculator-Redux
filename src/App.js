@@ -7,7 +7,6 @@ const App = () => {
   const [ivalue, fvalue] = useState("");
 
   const numPress = (n) => fvalue(ivalue + n);
-  
   const optPress = (opt) => {
     if (optval !== "") rsltPress(0);
     else newval(ivalue);
