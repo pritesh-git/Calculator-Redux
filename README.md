@@ -1,7 +1,7 @@
-# Calculator 
+# Calculator
 ### This is a test project for practice purpose. as test code learning initial designing and using function
 
- ## Installation:
+## Installation:
 ```
 Clone repo
 yarn or npm i
